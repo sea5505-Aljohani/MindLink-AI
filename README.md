@@ -49,7 +49,7 @@ This project was developed as part of HackPSU Fall 2025, competing in:
 
 
 
-
+## 🇸🇦 النسخة العربية
 
 🇸🇦 مايند لينك للذكاء الاصطناعي (MindLink AI)
 
@@ -97,3 +97,5 @@ This project was developed as part of HackPSU Fall 2025, competing in:
 تم تطوير هذا المشروع ضمن مسابقة HackPSU Fall 2025 للمشاركة في الفئات التالية:
 	•	🧠 تحدي الذكاء الاصطناعي Nittany AI Challenge
 	•	🎨 أفضل تصميم وتجربة مستخدم Best UX/UI Design
+
+                        💡 Developed with passion by Team VisionSync | HackPSU 2025
